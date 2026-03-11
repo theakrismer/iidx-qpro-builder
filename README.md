@@ -1,3 +1,3 @@
-# Jubeat Emblem Builder
+# IIDX Q-Pro Builder
 
-A browser-based layered image composer for building Jubeat emblems.
+A browser-based layered image composer for building iidx Q-Pro characters.
